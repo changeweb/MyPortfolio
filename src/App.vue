@@ -37,14 +37,17 @@ export default {
 </script>
 
 <style>
+body {
+  background-color: #000;
+}
 #app {
   height: 100vh;
-  background-color: rgb(214, 220, 226);
+  background-color: #000;
   font-family: "Satisfy", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: rgba(255, 255, 255, 0.685);
   font-size: 20px;
 }
 </style>

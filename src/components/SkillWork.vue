@@ -41,12 +41,15 @@ export default {
 </script>
 
 <style scoped>
+h2 {
+  color: #fff;
+}
 iframe {
   height: 50px;
 }
 .card{
-  border-radius: 200px;
-  margin-top: 10%;
+  background-color: #000;
+  color: #fff;
 }
 </style>
 

@@ -1,5 +1,9 @@
 <template>
   <div class="hello">
+    <!--
+      Background image by: https://www.reddit.com/user/romanjohnMLG/
+      Image Link: https://www.reddit.com/r/PewdiepieSubmissions/comments/7rwvnh/i_made_this_pewdiepies_wavy_background_you_can/
+    -->
     <h1>{{ msg }}</h1>
     <p>
       <h3>Hello! My name is
@@ -16,10 +20,9 @@
         <li>Love Memes</li>
         <li>IQ 399</li>
         <li>I brush my teeth</li>
+        <li>Email: <u>robinmilford870@gmail.com</u></li>
       </ul>
     </p>
-
-    
   </div>
 </template>
 
@@ -34,6 +37,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.hello {
+  background-color: #000;
+}
 h3 {
   margin: 40px 0 0;
 }

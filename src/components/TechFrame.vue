@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="tech">
+    <h2>I can work with</h2>
     <article class="message">
       <div class="message-body">
         <div class="m-title">OS:</div>
@@ -109,6 +110,9 @@ export default {
 </script>
 
 <style scoped>
+.tech {
+  background-color: #000;
+}
 .m-title {
   font-size: 20px;
   font-weight: bold;
