@@ -1,9 +1,5 @@
 <template>
   <div class="hello">
-    <!--
-      Background image by: https://www.reddit.com/user/romanjohnMLG/
-      Image Link: https://www.reddit.com/r/PewdiepieSubmissions/comments/7rwvnh/i_made_this_pewdiepies_wavy_background_you_can/
-    -->
     <h1>{{ msg }}</h1>
     <p>
       <h3>Hello! My name is
