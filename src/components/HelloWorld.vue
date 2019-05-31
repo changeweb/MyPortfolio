@@ -1,15 +1,15 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
+    <div>
       <h3>Hello! My name is
         <b style="font-size: 25px;">Hasib Mahmud</b>
       </h3>
-    </p>
+    </div>
     <div>
       A Fullstack Developer
     </div>
-    <p style="margin-top: 3%;">
+    <div style="margin-top: 3%;">
       <h2>#---$---#</h2>
       <ul>
         <li>Intelligent , Nahh!</li>
@@ -18,7 +18,7 @@
         <li>I brush my teeth</li>
         <li>Email: <u>robinmilford870@gmail.com</u></li>
       </ul>
-    </p>
+    </div>
   </div>
 </template>
 
