@@ -15,7 +15,7 @@
         <li>Intelligent , Nahh!</li>
         <li>Love Memes</li>
         <li>IQ 399</li>
-        <li>I brush my teeth !</li>
+        <li>I brush my teeth</li>
         <li>Email: <u>robinmilford870@gmail.com</u></li>
       </ul>
     </div>
